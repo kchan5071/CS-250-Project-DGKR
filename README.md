@@ -1,4 +1,5 @@
-# CS-250-Project-DGKR
-Repo Created for CS-250 with professor Basil Sajid Shaikh. Students are Kai, Diego, Reese, and Gabriel
+# VendBuddy
+Students are Kai Chan, Diego Vasquez-Del-Mercado, Reese Norris, and Gabriel Jimenez
 
-https://docs.google.com/document/d/1Yn5rzibvjgO8xJpHRzzXT78-Jlgec-tEyzY6sRjUBeY/edit?usp=sharing
+Overview
+The software proposed is an application which allows college students to find the best deals for vending machines around campus. Students often have many hours between classes and most forget to pack food for their time at school. The app will allow students to locate vending machines, locate specific items, and review vending machines.
